@@ -1,0 +1,27 @@
+.cobra_slider_container {margin-top: -20px;background-color: rgba(0, 0, 0, 0.8);}
+.cobra_row_cell {padding-top: 20px;padding-bottom: 25px;color: #fff;text-shadow: 0 2px 2px rgba(0,0,0,0.6);}
+.carousel-indicators {bottom:-7px;}
+.cobra_center{text-align: center;}
+.cobra_text{text-align: left;}
+.cobra_caption_red {color: crimson;font-weight:bold;}
+.cobra_caption_green {color: #14ba3a;}
+.cobra_caption_white {color: white;}
+.cobra_brand {font-size: 20px;}
+.even_bg:nth-child(even) {background: #EAEDF1;}
+.img_cobra {border:1px solid #fff;box-shadow: 2px 2px 15px rgba(0,0,0,0.6);}
+.img_cobra_slider {box-shadow: -1px 0px 15px rgba(0,0,0,0.7);border-radius: 8px;}
+#carousel_ {margin-bottom: 22px;}
+footer{padding-top: 69px;}
+.cobra_collage {height: 285px;display: block;}
+.cobra_collag_slide {position:absolute;left: 0px;bottom: -11px;}
+.slide1{padding-left: 89px;bottom: -25px;}
+.slide2{padding-left: 170px;bottom: -35px;}
+.slide3{padding-left: 258px;bottom: -45px;}
+.article_img1 {margin-top: 25px;margin-bottom: 25px;}
+.article_img2 {margin-top: 35px;height: 373px;}
+.art_img_2 {overflow:hidden;}
+.art_img_3 {margin-top: 39px;margin-bottom: 25px;}
+.art_img_3_2 {margin-top: 10px;margin-bottom: 10px;}
+.art_img_4 {margin-top: 10px;margin-bottom: 10px;}
+.article_img2_2 {margin-top: 35px;height: 300px;}
+.article_img2_3 {margin-top: 9px;height: 296px;}
